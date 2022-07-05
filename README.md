@@ -84,11 +84,11 @@ I've used a pre-trained ResNet-50 model to detect dogs in images.
 
 ### Model Performance
 
-CNN from scratch has a test performance of 3.1100%.
+CNN from scratch has a test performance of 4.5455%.
 
-THE pre-trained VGG-16 CNN model has a test accuracy of 41.5072%.
+THE pre-trained VGG-16 CNN model has a test accuracy of 45.0957%.
 
-CNN to Classify Dog Breeds using Resnet50(using transfer Learning) has a test accuracy of 79.6651.
+CNN to Classify Dog Breeds using Resnet50(using transfer Learning) has a test accuracy of 80.9809%.
 
 Among the 3 models, CNN to Classify Dog Breeds using Resnet50 has the best performance. We'll use it to build our Algorithm for the web app.
 
